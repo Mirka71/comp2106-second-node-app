@@ -1,0 +1,6 @@
+{
+    "ext": "ts,json,js",
+    "watch": "src,dist",
+    "ignore": "[dist, node_modules]",
+    "exec": "tsc"
+}
