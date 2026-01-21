@@ -13,3 +13,5 @@
 `npm i accounting` - package for money format
 
 `npm i nodemon -g` - global package for auto-restarts on save change
+
+`npm i typescript @types/node` - in order to use TS
